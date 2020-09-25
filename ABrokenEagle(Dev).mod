@@ -1,4 +1,4 @@
-name="A Broken Eagle (Devolpment)"
+name="A Broken Eagle (Dev Build)"
 path="mod/ABrokenEagle"
 replace_path="common/ai_peace"
 replace_path="common/ai_strategy"
