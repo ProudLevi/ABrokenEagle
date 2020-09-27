@@ -4,6 +4,9 @@ state={
 	provinces={
 		40 696 772 1314 1514 1602 1809 2044 2531 3520 3788 3840 3870 3872 3873 3932 3951 
 	}
-	manpower=0
+	manpower=15
+	history = {
+		owner = TST
+	}
 	buildings_max_level_factor=1.000
 }
