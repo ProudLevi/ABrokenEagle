@@ -1,0 +1,5 @@
+TST = "countries/Test.txt"
+
+#50 US STATES BELOW
+
+TXT = "countries/Texas.txt"
