@@ -6,7 +6,7 @@ type={
 	object={
 		name="frame_border_entity_top"
 		position={
-			0.000 0.000 2200.000 
+			0.000 0.000 2206.000 
 		}
 		rotation={
 			0.000 0.000 0.000 
