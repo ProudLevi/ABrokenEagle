@@ -1,4 +1,4 @@
-capital = 514
+capital = 1
 
 set_convoys = 500
 set_research_slots = 2
