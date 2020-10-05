@@ -1,0 +1,10 @@
+#Maryland
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		946 2977 3518 3581 4407 6370 6400 6432 2124 3433 3093 6453 3842 4985
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

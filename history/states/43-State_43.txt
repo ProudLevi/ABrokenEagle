@@ -1,0 +1,10 @@
+#Vermont
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		239 522 947 1561 1732 3046 4387 4459 6045 6051 6065 6091 6110 6114 6153 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

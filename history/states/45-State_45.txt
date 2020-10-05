@@ -1,0 +1,10 @@
+#Massachusetts
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		1025 1100 1654 2660 2818 3392 4042 4146 4482 4750 6184 6198 6211 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

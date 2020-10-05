@@ -1,0 +1,10 @@
+#Connecticut
+state={
+	id=46
+	name="STATE_46"
+	provinces={
+		108 2751 3389 3602 3889 6251 6261 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,10 @@
+#Delaware
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		466 4954 6365 6396 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
