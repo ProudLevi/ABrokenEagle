@@ -1,0 +1,10 @@
+#Prince Edward Island
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		3964 4283 5952 7685 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
