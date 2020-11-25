@@ -1,0 +1,13 @@
+#Arizonia
+state={
+	id=69
+	name="STATE_69"
+	provinces={
+		1770 3900 2800 4452 3619 1628 6553 2709
+	}
+	manpower=0
+	history = {
+		owner = FLA
+	}
+	buildings_max_level_factor=1.000
+}

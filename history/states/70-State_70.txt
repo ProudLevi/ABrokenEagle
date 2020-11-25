@@ -1,0 +1,13 @@
+#Arizonia-New Mexico
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		2918 258 516 4258 2852 6555 1020 6540 3318
+	}
+	manpower=0
+	history = {
+		owner = NAN
+	}
+	buildings_max_level_factor=1.000
+}

@@ -2,3 +2,51 @@ TST = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+PSC = {
+	color = rgb { 62  106  130 }
+	color_ui = rgb { 62  106  130 }
+}
+PSN = {
+	color = rgb { 60  130  169 }
+	color_ui = rgb { 60  130  169 }
+}
+WOZ = {
+	color = rgb { 60  130  169 }
+	color_ui = rgb { 62  106  130 }
+}
+FLO = {
+	color = rgb { 197  172  110 }
+	color_ui = rgb { 197  172  110 }
+}
+RER = {
+	color = rgb { 87  95  87 }
+	color_ui = rgb { 87  95  87 }
+}
+UNC = {
+	color = rgb { 72  109  135 }
+	color_ui = rgb { 72  109  135 }
+}
+PHA = {
+	color = rgb { 60  130  169 }
+	color_ui = rgb { 60  130  169 }
+}
+TUJ = {
+	color = rgb { 141  105  171 }
+	color_ui = rgb { 141  105  171 }
+}
+FLA = {
+	color = rgb { 174  50  54 }
+	color_ui = rgb { 174  50  54 }
+}
+NAN = {
+	color = rgb { 212  169  105 }
+	color_ui = rgb { 212  169  105 }
+}
+WIS = {
+	color = rgb { 151  211  173 }
+	color_ui = rgb { 151  211  173 }
+}
+CAN = {
+	color = rgb { 233  59  59 }
+	color_ui = rgb { 233  59  59 }
+}

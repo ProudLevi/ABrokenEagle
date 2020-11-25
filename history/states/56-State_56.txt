@@ -9,5 +9,8 @@ state={
 		4161 819 3230 4322 7134 7122 465 5295 7061 7067
 	}
 	manpower=0
+	history = {
+		owner = CAN
+	}
 	buildings_max_level_factor=1.000
 }

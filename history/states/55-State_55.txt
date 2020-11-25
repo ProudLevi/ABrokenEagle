@@ -7,5 +7,8 @@ state={
 		
 	}
 	manpower=0
+	history = {
+		owner = CAN
+	}
 	buildings_max_level_factor=1.000
 }
