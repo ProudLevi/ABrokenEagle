@@ -41,20 +41,20 @@ ideologies = {
 		}
 		ai_neutral = yes
 	}
-	#DEMOCRATIC SOCIALISM
-	social_democracy = {
+	#LIBERAL DEMOCRACY
+	liberal_democracy = {
 		types = {
-			social_democracy_subtype = {}
+			liberal_democracy_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_SOCIAL_DEMOCRACY_1"
-			"FACTION_NAME_SOCIAL_DEMOCRACY_2"
-			"FACTION_NAME_SOCIAL_DEMOCRACY_3"
-			"FACTION_NAME_SOCIAL_DEMOCRACY_4"
-			"FACTION_NAME_SOCIAL_DEMOCRACY_5"
-			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_1"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_2"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_3"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_4"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_5"
+			"FACTION_NAME_LIBERAL_DEMOCRACY_6"
 		}
-		color = { 255 102 204 }
+		color = { 0 170 255 }
 		rules = {
 			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = yes
@@ -82,20 +82,20 @@ ideologies = {
 		}
 		ai_neutral = yes
 	}
-	#LIBERAL DEMOCRACY
-	liberal_democracy = {
+	#DEMOCRATIC SOCIALISM
+	social_democracy = {
 		types = {
-			liberal_democracy_subtype = {}
+			social_democracy_subtype = {}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_LIBERAL_DEMOCRACY_1"
-			"FACTION_NAME_LIBERAL_DEMOCRACY_2"
-			"FACTION_NAME_LIBERAL_DEMOCRACY_3"
-			"FACTION_NAME_LIBERAL_DEMOCRACY_4"
-			"FACTION_NAME_LIBERAL_DEMOCRACY_5"
-			"FACTION_NAME_LIBERAL_DEMOCRACY_6"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_1"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_2"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_3"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_4"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_5"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_6"
 		}
-		color = { 0 170 255 }
+		color = { 255 102 204 }
 		rules = {
 			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = yes

@@ -1,30 +1,30 @@
 ﻿l_english:
 
-TXT_democratic:0 "Republic of Texas"
-TXT_fascism:0 "Republic of Texas"
+TXT_conservative_democracy:0 "Republic of Texas"
+TXT_authoritarian_democracy:0 "Republic of Texas"
 
-FLO_democratic:0 "Republic of Florida"
+FLO_conservative_democracy:0 "Republic of Florida"
 
-WOZ_democratic:0 "Washington-Oregon Pacific Zone"
+WOZ_conservative_democracy:0 "Washington-Oregon Pacific Zone"
 
-PSC_democratic:0 "Pacific State of California"
+PSC_conservative_democracy:0 "Pacific State of California"
 
-PSN_democratic:0 "Pacific State of Nevada"
+PSN_conservative_democracy:0 "Pacific State of Nevada"
 
-PRA_democratic:0 "Pacific Republic of Alaska"
+PRA_conservative_democracy:0 "Pacific Republic of Alaska"
 
-PHA_democratic:0 "Phoenix Administration"
+PHA_conservative_democracy:0 "Phoenix Administration"
 
-RER_democratic:0 "Remnant Republic"
+RER_conservative_democracy:0 "Remnant Republic"
 
-UNC_democratic:0 "United Carolina"
+UNC_conservative_democracy:0 "United Carolina"
 
-TUJ_democratic:0 "Tuscon Junta"
+TUJ_conservative_democracy:0 "Tuscon Junta"
 
-FLA_democratic:0 "Flagstaff"
+FLA_conservative_democracy:0 "Flagstaff"
 
-NAN_democratic:0 "Navajo Nation"
+NAN_conservative_democracy:0 "Navajo Nation"
 
-WIS_democratic:0 "Wisconsin"
+WIS_conservative_democracy:0 "Wisconsin"
 
-CAN_democratic:0 "Canada"
+CAN_conservative_democracy:0 "Republic of Canada"
