@@ -1,0 +1,25 @@
+ideas = {
+	country = {
+		TXT_ADictatorshipInAllButName = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			modifier = {
+     			stability_factor = -0.05
+ 				political_power_factor = -0.25 
+ 			 	conscription_factor = -0.25 
+			}
+
+			picture = GFX_TXT_ADictatorshipInAllButName
+		
+			removal_cost = -1	
+
+		}
+	}
+}

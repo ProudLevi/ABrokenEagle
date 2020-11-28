@@ -1,0 +1,7 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_TXT_ADictatorshipInAllButName"
+		texturefile = "gfx/interface/ideas/TXT_ADictatorshipInAllButName.dds"
+	}
+}

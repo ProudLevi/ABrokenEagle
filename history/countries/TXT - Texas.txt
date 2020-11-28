@@ -30,19 +30,29 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = conservative_democracy
+	ruling_party = authoritarian_democracy
 	last_election = "1936.11.3"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
+add_ideas = {
+	TXT_ADictatorshipInAllButName
+}
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "W. Lee O'Daniel"
+	desc = "POLITICS_LEE_O_DANIEL_DESC"
+	picture = "Portrait_TXT_W_Lee_O_Daniel.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = authoritarian_democracy_subtype
 	traits = {
-		dislikes_germany
+		
 	}
+}
+set_popularities = {
+	conservative_democracy = 22
+	liberal_democracy = 17
+	social_democracy = 12
+	authoritarian_democracy = 46
+	authoritarian_socialism = 2
+	libertarian_socialism = 1
 }
