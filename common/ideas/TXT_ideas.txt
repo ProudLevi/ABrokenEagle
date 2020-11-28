@@ -16,7 +16,7 @@ ideas = {
  			 	conscription_factor = -0.25 
 			}
 
-			picture = GFX_TXT_ADictatorshipInAllButName
+			picture = TXT_ADictatorshipInAllButName
 		
 			removal_cost = -1	
 
