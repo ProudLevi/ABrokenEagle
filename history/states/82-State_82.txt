@@ -1,0 +1,12 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		596 1015 1872 2114 2313 2462 2876 3702 3703 3787 3815 4066 4248 4549 4571 4653 4780 4819 6956 6966 6967 6973 6975 6985 6987 6988 6998 
+	}
+	manpower=0
+	history = {
+		owner = MEX
+	}
+	buildings_max_level_factor=1.000
+}
