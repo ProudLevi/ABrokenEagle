@@ -27,5 +27,8 @@ state={
 		5003 7467 7471 7486 3314 3992 7338
 	}
 	manpower=0
+	history = {
+		owner = PRA
+	}
 	buildings_max_level_factor=1.000
 }

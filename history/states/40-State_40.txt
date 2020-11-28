@@ -6,5 +6,8 @@ state={
 		466 4954 6365 6396 
 	}
 	manpower=0
+	history = {
+		owner = ACS
+	}
 	buildings_max_level_factor=1.000
 }

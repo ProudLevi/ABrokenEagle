@@ -50,3 +50,45 @@ CAN = {
 	color = rgb { 233  59  59 }
 	color_ui = rgb { 233  59  59 }
 }
+PRA = {
+	color = rgb { 60  130  169 }
+	color_ui = rgb { 60  130  169 }
+}
+NEY = {
+	color = rgb { 64  87  127 }
+	color_ui = rgb { 64  87  127 }
+}
+NEE = {
+	color = rgb { 85  126  84 }
+	color_ui = rgb { 85  126  84 }
+}
+ACS = {
+	color = rgb { 64  64  64 }
+	color_ui = rgb { 64  64  64 }
+}
+
+AMS = {
+	color = rgb { 79  109  169 }
+	color_ui = rgb { 79  109  169 }
+}
+KEY = {
+	color = rgb { 157  45  64 }
+	color_ui = rgb { 157  45  64 }
+}
+ACR = {
+	color = rgb { 213  203  149 }
+	color_ui = rgb { 213  203  149 }
+}
+UPO = {
+	color = rgb { 181  253  207 }
+	color_ui = rgb { 181  253  207 }
+}
+APP = {
+	color = rgb { 96  85  85 }
+	color_ui = rgb { 96  85  85 }
+}
+VIR = {
+	color = rgb { 108  72  161 }
+	color_ui = rgb { 108  72  161 }
+}
+

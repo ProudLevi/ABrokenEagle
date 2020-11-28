@@ -6,5 +6,8 @@ state={
 		108 2751 3389 3602 3889 6251 6261 
 	}
 	manpower=0
+	history = {
+		owner = NEE
+	}
 	buildings_max_level_factor=1.000
 }

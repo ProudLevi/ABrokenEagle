@@ -6,5 +6,8 @@ state={
 		39 165 2230 2674 3672 3978 4285 4496 4607 4832 5097 6141 6147 
 	}
 	manpower=0
+	history = {
+		owner = NEE
+	}
 	buildings_max_level_factor=1.000
 }

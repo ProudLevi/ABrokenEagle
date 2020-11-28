@@ -3,8 +3,11 @@ state={
 	id=41
 	name="STATE_41"
 	provinces={
-		20 113 1874 3376 3795 3827 4880 5000 6299 6341 6371 6374 7760
+		20 113 1874 3376 3795 3827 4880 5000 6299 6341 6371 6374 
 	}
 	manpower=0
+	history = {
+		owner = ACR
+	}
 	buildings_max_level_factor=1.000
 }
