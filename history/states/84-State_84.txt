@@ -1,0 +1,12 @@
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		3173
+	}
+	manpower=0
+	history = {
+		owner = TUL
+	}
+	buildings_max_level_factor=1.000
+}

@@ -2,6 +2,14 @@ TST = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+TXT = {
+	color = rgb { 0 42 118 }
+	color_ui = rgb { 0 42 118 }
+}
+DMX = {
+	color = rgb { 15 62 148 }
+	color_ui = rgb { 15 62 148 }
+}
 PSC = {
 	color = rgb { 62  106  130 }
 	color_ui = rgb { 62  106  130 }
@@ -95,10 +103,6 @@ MEX = {
 	color = rgb { 104  152  83 }
 	color_ui = rgb { 104  152  83 }
 }
-DMX = {
-	color = rgb { 111 111 111 }
-	color_ui = rgb { 111 111 111 }
-}
 ALB = {
 	color = rgb { 183 175 134 }
 	color_ui = rgb { 183 175 134 }
@@ -106,5 +110,29 @@ ALB = {
 MSS = {
 	color = rgb { 136 91 135 }
 	color_ui = rgb { 136 91 135 }
+}
+OKL = {
+	color = rgb { 210 189 91 }
+	color_ui = rgb { 210 189 91 }
+}
+TUL = {
+	color = rgb { 242 121 115 }
+	color_ui = rgb { 242 121 115 }
+}
+NTC = {
+	color = rgb { 97 154 96 }
+	color_ui = rgb { 97 154 96 }
+}
+LTR = {
+	color = rgb { 102 101 124 }
+	color_ui = rgb { 102 101 124 }
+}
+FGL = {
+	color = rgb { 169 157 226 }
+	color_ui = rgb { 169 157 226 }
+}
+KEN = {
+	color = rgb { 227 159 159 }
+	color_ui = rgb { 227 159 159 }
 }
 
