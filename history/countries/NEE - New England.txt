@@ -37,12 +37,19 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "Henry Cabot Lodge Jr"
+	desc = "POLITICS_HENRY_CABOT_LODGE_JR_DESC"
+	picture = "Portrait_NEE_Henry_Cabot_Lodge_Jr.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
-	traits = {
-		dislikes_germany
-	}
+	ideology = conservative_democracy_subtype
 }
+
+set_popularities = {
+	conservative_democracy = 51
+	liberal_democracy = 27
+	social_democracy = 13
+	authoritarian_democracy = 1
+	authoritarian_socialism = 2
+	libertarian_socialism = 6
+}
+
