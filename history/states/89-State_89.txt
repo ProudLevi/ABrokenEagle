@@ -1,0 +1,12 @@
+state={
+	id=89
+	name="STATE_89"
+	provinces={
+		6630 2913 6589 6558 5088 1419 3958 6608 3999 6557 1696 2602 702 2295 6560 3379 6546 5232
+	}
+	manpower=0
+	history = {
+		owner = MSS
+	}
+	buildings_max_level_factor=1.000
+}

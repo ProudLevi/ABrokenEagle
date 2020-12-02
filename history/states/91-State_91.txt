@@ -1,0 +1,12 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		6351 6345 6366 2636 4674 2730 6455 6461 2839 2659
+	}
+	manpower=0
+	history = {
+		owner = MSS
+	}
+	buildings_max_level_factor=1.000
+}
