@@ -4,4 +4,8 @@ spriteTypes = {
 		name = "GFX_idea_TXT_ADictatorshipInAllButName"
 		texturefile = "gfx/interface/ideas/TXT/idea_TXT_ADictatorshipInAllButName.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_AMS_ADreamRuined"
+		texturefile = "gfx/interface/ideas/AMS/idea_AMS_ADreamRuined.dds"
+	}
 }

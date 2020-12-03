@@ -1,0 +1,23 @@
+ideas = {
+	country = {
+		AMS_ADreamRuined = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			modifier = {
+     			stability_factor = -0.15
+			}
+
+			picture = AMS_ADreamRuined
+		
+			removal_cost = -1	
+
+		}
+	}
+}

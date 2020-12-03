@@ -35,7 +35,12 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
-
+add_ideas = {
+	AMS_ADreamRuined
+	AMS_WashingtonCompromise
+	AMS_BitterLooser
+	AMS_Migrated_Economy
+}
 create_country_leader = {
 	name = "Cordell Hull"
 	desc = "POLITICS_CORDELl_HULL_DESC"
@@ -46,6 +51,7 @@ create_country_leader = {
 		
 	}
 }
+
 set_popularities = {
 	conservative_democracy = 46
 	liberal_democracy = 31
