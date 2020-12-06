@@ -135,4 +135,16 @@ KEN = {
 	color = rgb { 227 159 159 }
 	color_ui = rgb { 227 159 159 }
 }
+CHC = {
+	color = rgb { 212 173 226 }
+	color_ui = rgb { 212 173 226 }
+}
+ATR = {
+	color = rgb { 119 186 176 }
+	color_ui = rgb { 119 186 176 }
+}
+FRK = {
+	color = rgb { 182 182 182 }
+	color_ui = rgb { 182 182 182 }
+}
 

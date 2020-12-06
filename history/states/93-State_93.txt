@@ -1,0 +1,12 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		6256 1027 68 6204 4360 1821
+	}
+	manpower=0
+	history = {
+		owner = CHC
+	}
+	buildings_max_level_factor=1.000
+}

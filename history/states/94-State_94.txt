@@ -1,0 +1,12 @@
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		2613 3300 6582 6567 2477 4585 6549 2865 3717 1855 6536 3586
+	}
+	manpower=0
+	history = {
+		owner = FRK
+	}
+	buildings_max_level_factor=1.000
+}
