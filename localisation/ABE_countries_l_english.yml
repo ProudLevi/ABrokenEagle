@@ -63,7 +63,8 @@ NTC_conservative_democracy:0 "Native Confederacy"
 
 LTR_conservative_democracy:0 "Little Rock"
 
-FGL_conservative_democracy:0 "Federal Army Group "Louisville""
+FGL_conservative_democracy:0 "Federal Army Group 'Louisville'"
+FGL_despotism:0 "Federal Army Group 'Louisville'"
 
 KEN_conservative_democracy:0 "Union of Kentucky"
 
