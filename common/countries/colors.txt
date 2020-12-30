@@ -168,8 +168,8 @@ DUL = {
 	color_ui = rgb { 145 196 97 }
 }
 KIO = {
-	color = rgb { 145 196 97 }
-	color_ui = rgb { 145 196 97 }
+	color = rgb { 222 166 255 }
+	color_ui = rgb { 222 166 255 }
 }
 
 

@@ -30,19 +30,25 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = conservative_democracy
+	ruling_party = despotism
 	last_election = "1936.11.3"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
+}
+set_popularities = {
+	despotism = 72
+	authoritarian_democracy = 9
+	conservative_democracy = 4
+	liberal_democracy = 4
+	authoritarian_socialism = 1
+	libertarian_socialism = 3
+	anarchism = 7
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "Harold Keller"
+	desc = "POLITICS_HAROLD_KELLER_DESC"
+	picture = "Portrait_KIO_Harold_Keller.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
-	traits = {
-		dislikes_germany
+	ideology = despotism_subtype
 	}
-}
