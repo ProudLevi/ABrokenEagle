@@ -1,0 +1,13 @@
+
+state={
+	id=100
+	name="STATE_100"
+	provinces={
+		886 1168 1189 1678 2210 2592 3800 4479 5120 5176 6191 6201 6234 6239 
+	}
+	manpower=0
+	history = {
+		owner = KIO
+	}
+	buildings_max_level_factor=1.000
+}

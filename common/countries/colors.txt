@@ -147,4 +147,29 @@ FRK = {
 	color = rgb { 182 182 182 }
 	color_ui = rgb { 182 182 182 }
 }
+CRF = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+LAS = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+RLR = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+SCS = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+DUL = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+KIO = {
+	color = rgb { 145 196 97 }
+	color_ui = rgb { 145 196 97 }
+}
+
 

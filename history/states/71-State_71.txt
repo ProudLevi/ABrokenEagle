@@ -1,13 +1,16 @@
-#Michigan Upper Penisula
+
 state={
 	id=71
 	name="STATE_71"
+
+	history={
+		owner = UPO
+
+	}
+
 	provinces={
-		4909 3272 817 4537 360 3488 4494 1804 1213 6013 4113 5090 765 2960 5175 1460 4983 2130 5957 5979 2140 
+		360 765 817 1213 1460 1804 2130 2140 2960 3272 3488 4113 4494 4537 4909 4983 5090 5175 5957 5979 6013 
 	}
 	manpower=0
-	history = {
-		owner = UPO
-	}
 	buildings_max_level_factor=1.000
 }

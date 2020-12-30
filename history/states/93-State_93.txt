@@ -1,12 +1,16 @@
+
 state={
 	id=93
 	name="STATE_93"
+
+	history={
+		owner = CHC
+
+	}
+
 	provinces={
-		6256 1027 68 6204 4360 1821
+		68 1027 1821 4360 6204 6256 
 	}
 	manpower=0
-	history = {
-		owner = CHC
-	}
 	buildings_max_level_factor=1.000
 }
