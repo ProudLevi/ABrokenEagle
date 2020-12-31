@@ -152,20 +152,20 @@ CRF = {
 	color_ui = rgb { 145 196 97 }
 }
 LAS = {
-	color = rgb { 145 196 97 }
-	color_ui = rgb { 145 196 97 }
+	color = rgb { 255 191 0 }
+	color_ui = rgb { 255 191 0 }
 }
 RLR = {
-	color = rgb { 145 196 97 }
-	color_ui = rgb { 145 196 97 }
+	color = rgb { 175 0 42 }
+	color_ui = rgb { 175 0 42 }
 }
 SCS = {
 	color = rgb { 145 196 97 }
 	color_ui = rgb { 145 196 97 }
 }
 DUL = {
-	color = rgb { 145 196 97 }
-	color_ui = rgb { 145 196 97 }
+	color = rgb { 129 97 62 }
+	color_ui = rgb { 129 97 62 }
 }
 KIO = {
 	color = rgb { 222 166 255 }
