@@ -1,0 +1,12 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		5 290 1147 1346 1720 2167 2185 2454 2497 2578 2990 3275 3566 3937 4666 5158 5227 6358 6376 6378 6394 6433 6444 
+	}
+	manpower=0
+	history = {
+		owner = AMS
+	}
+	buildings_max_level_factor=1.000
+}

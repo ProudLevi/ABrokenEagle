@@ -1,9 +1,9 @@
 
 state={
-	id=96
-	name="STATE_96"
+	id=101
+	name="STATE_101"
 	provinces={
-		110 838 2763 2910 4022 4023 5225 6268 6312 6326 
+		943 1465 3290 
 	}
 	manpower=0
 	history = {

@@ -1,13 +1,13 @@
 
 state={
-	id=96
-	name="STATE_96"
+	id=102
+	name="STATE_102"
 	provinces={
-		110 838 2763 2910 4022 4023 5225 6268 6312 6326 
+		4109 6369 
 	}
 	manpower=0
 	history = {
-		owner = AMS
+		owner = FSA
 	}
 	buildings_max_level_factor=1.000
 }

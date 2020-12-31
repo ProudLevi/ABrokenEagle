@@ -171,5 +171,9 @@ KIO = {
 	color = rgb { 222 166 255 }
 	color_ui = rgb { 222 166 255 }
 }
+FSA = {
+	color = rgb { 222 166 255 }
+	color_ui = rgb { 222 166 255 }
+}
 
 
