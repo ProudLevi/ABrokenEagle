@@ -1,13 +1,16 @@
-#Rhode Island
+
 state={
 	id=47
 	name="STATE_47"
+
+	history={
+		owner = NEE
+
+	}
+
 	provinces={
-		1480 4401 6226 
+		1480 4401 6226 7750 
 	}
 	manpower=0
-	history = {
-		owner = NEE
-	}
 	buildings_max_level_factor=1.000
 }

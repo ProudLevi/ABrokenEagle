@@ -175,5 +175,9 @@ FSA = {
 	color = rgb { 222 166 255 }
 	color_ui = rgb { 222 166 255 }
 }
+CUB = {
+	color = rgb { 140 65 166 }
+	color_ui = rgb { 140 65 166 }
+}
 
 

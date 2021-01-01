@@ -1,0 +1,12 @@
+state={
+	id=116
+	name="STATE_116"
+	provinces={
+		880 1742 5664 5702 
+	}
+	manpower=0
+	history = {
+		owner = CAN
+	}
+	buildings_max_level_factor=1.000
+}
