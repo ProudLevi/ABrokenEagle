@@ -26,5 +26,5 @@ tags={
 	"Utilities"
 }
 picture="blank_map_template_5632x2048.jpg"
-supported_version="1.10.*"
-path="C:/Users/charl/Documents/Paradox Interactive/Hearts of Iron IV/mod/ABrokenEagle"
+supported_version="1.11.*"
+path="E:/Documents/Paradox Interactive/Hearts of Iron IV/mod/ABrokenEagle"
