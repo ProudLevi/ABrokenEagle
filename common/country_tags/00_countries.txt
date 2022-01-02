@@ -45,4 +45,7 @@ SCS = "countries/Saint Cloud.txt"
 DUL = "countries/Duluth.txt"
 KIO = "countries/Kellers Iowa.txt"
 FSA = "countries/Free States of America.txt"
+UDR = "countries/United Dakota Rebels.txt"
+
+#
 CUB = "countries/Cuba.txt"
