@@ -46,6 +46,13 @@ DUL = "countries/Duluth.txt"
 KIO = "countries/Kellers Iowa.txt"
 FSA = "countries/Free States of America.txt"
 UDR = "countries/United Dakota Rebels.txt"
+FAS = "countries/Free African Society.txt"
+DVG = "countries/Denver Government.txt"
+MSC = "countries/Mesa Collective.txt"
+HEL = "countries/Helena.txt"
+PFR = "countries/Post Falls Republic.txt"
+TWF = "countries/Twin Falls.txt"
+PDR = "countries/Provisional Deseret Republic.txt"
 
 #
 CUB = "countries/Cuba.txt"
