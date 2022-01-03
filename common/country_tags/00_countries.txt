@@ -55,6 +55,8 @@ TWF = "countries/Twin Falls.txt"
 PDR = "countries/Provisional Deseret Republic.txt"
 EGC = "countries/East Confed.txt"
 MAU = "countries/Maltanta Union.txt"
+GFF = "countries/Gods Free Frontier.txt"
+CRW = "countries/Crow Nation.txt"
 
 #
 CUB = "countries/Cuba.txt"

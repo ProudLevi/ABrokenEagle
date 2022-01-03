@@ -191,5 +191,24 @@ MAU = {
 	color = rgb { 45 158 151 }
 	color_ui = rgb { 45 158 151 }
 }
-
+UDR = {
+	color = rgb { 154 123 183 }
+	color_ui = rgb { 154 123 183 }
+}
+PFR = {
+	color = rgb { 92 196 143 }
+	color_ui = rgb { 92 196 143 }
+}
+GFF = {
+	color = rgb { 80 193 212 }
+	color_ui = rgb { 80 193 212 }
+}
+CRW = {
+	color = rgb { 255 42 77 }
+	color_ui = rgb { 255 42 77 }
+}
+HEL = {
+	color = rgb { 78 77 117 }
+	color_ui = rgb { 78 77 117 }
+}
 
