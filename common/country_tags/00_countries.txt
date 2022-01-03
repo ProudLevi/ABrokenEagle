@@ -58,7 +58,7 @@ MAU = "countries/Maltanta Union.txt"
 GFF = "countries/Gods Free Frontier.txt"
 CRW = "countries/Crow Nation.txt"
 WEN = "countries/Wendover Front.txt"
-BOI = "countries/Boise Confederaction.txt"
+BOI = "countries/Boise Confederation.txt"
 HEC = "countries/Heavens Children.txt"
 
 #
