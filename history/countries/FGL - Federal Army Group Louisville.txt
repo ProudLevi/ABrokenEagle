@@ -45,7 +45,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "General Simpson"
+	name = "General William Hood Simpson"
 	desc = "POLITICS_WILLIAM_SIMPSON_DESC"
 	picture = "Portrait_FGL_William_Hood_Simpson.dds"
 	expire = "1947.1.1"
