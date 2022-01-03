@@ -211,4 +211,25 @@ HEL = {
 	color = rgb { 78 77 117 }
 	color_ui = rgb { 78 77 117 }
 }
+TWF = {
+	color = rgb { 153 87 112 }
+	color_ui = rgb { 153 87 112 }
+}
+WEN = {
+	color = rgb { 252 42 77 }
+	color_ui = rgb { 252 42 77 }
+}
+BOI = {
+	color = rgb { 69 118 42 }
+	color_ui = rgb { 69 118 42 }
+}
+HEC = {
+	color = rgb { 185 187 113 }
+	color_ui = rgb { 185 187 113 }
+}
+DVG = {
+	color = rgb { 190 158 110 }
+	color_ui = rgb { 190 158 110 }
+}
+
 

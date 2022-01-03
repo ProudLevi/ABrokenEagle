@@ -57,6 +57,9 @@ EGC = "countries/East Confed.txt"
 MAU = "countries/Maltanta Union.txt"
 GFF = "countries/Gods Free Frontier.txt"
 CRW = "countries/Crow Nation.txt"
+WEN = "countries/Wendover Front.txt"
+BOI = "countries/Boise Confederaction.txt"
+HEC = "countries/Heavens Children.txt"
 
 #
 CUB = "countries/Cuba.txt"

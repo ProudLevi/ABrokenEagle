@@ -5,5 +5,8 @@ state={
 		79 1581 1764 1922 3235 3548 3650 4377 6221 6267 6316 
 	}
 	manpower=0
+	history = {
+		owner = WEN
+	}
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,17 @@
+
+state={
+	id=122
+	name="STATE_122"
+
+	history={
+		owner = FSA
+
+	}
+
+	provinces={
+		883 982 1187 2368 2829 2870 2903 2962 3002 3085 3189 3525 3939 4656 5094 6355 6401 6428 6463 6470 6498 6511 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

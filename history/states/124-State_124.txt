@@ -1,0 +1,16 @@
+
+state={
+	id=124
+	name="STATE_124"
+
+	history={
+		owner = 
+	}
+
+	provinces={
+		443 1174 1276 1458 1566 2377 3370 4060 4735 4935 6304 6382 6414 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

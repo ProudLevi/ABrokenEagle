@@ -1,9 +1,13 @@
 state={
 	id=110
 	name="STATE_110"
+	history={
+		owner = BOI
+	}
 	provinces={
-		1051 3019 4282 5244 
+		57 94 2689 3803 4469 4626 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	local_supplies=0.000
 }
