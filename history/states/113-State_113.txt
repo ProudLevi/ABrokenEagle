@@ -5,5 +5,8 @@ state={
 		1694 2461 3976 4414 
 	}
 	manpower=0
+	history = {
+		owner = FAS
+	}
 	buildings_max_level_factor=1.000
 }

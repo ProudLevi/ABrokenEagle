@@ -179,5 +179,17 @@ CUB = {
 	color = rgb { 140 65 166 }
 	color_ui = rgb { 140 65 166 }
 }
+FAS = {
+	color = rgb { 132 42 57 }
+	color_ui = rgb { 132 42 57 }
+}
+EGC = {
+	color = rgb { 112 172 148 }
+	color_ui = rgb { 112 172 148 }
+}
+MAU = {
+	color = rgb { 45 158 151 }
+	color_ui = rgb { 45 158 151 }
+}
 
 
