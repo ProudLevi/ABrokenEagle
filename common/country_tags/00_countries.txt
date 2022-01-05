@@ -60,6 +60,14 @@ CRW = "countries/Crow Nation.txt"
 WEN = "countries/Wendover Front.txt"
 BOI = "countries/Boise Confederation.txt"
 HEC = "countries/Heavens Children.txt"
+JUB = "countries/Junction Bandits.txt"
+HWI = "countries/Hawaii.txt"
+CHY = "countries/Cheyenne.txt"
+RC1 = "countries/Ranch1.txt"
+RC2 = "countries/Ranch2.txt"
+RC3 = "countries/Ranch3.txt"
+
 
 #
 CUB = "countries/Cuba.txt"
+GRE = "countries/Greenland.txt"

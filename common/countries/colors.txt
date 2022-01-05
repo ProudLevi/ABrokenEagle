@@ -231,5 +231,42 @@ DVG = {
 	color = rgb { 190 158 110 }
 	color_ui = rgb { 190 158 110 }
 }
+PDR = {
+	color = rgb { 113 113 113 }
+	color_ui = rgb { 113 113 113 }
+}
+MSC = {
+	color = rgb { 79 142 100 }
+	color_ui = rgb { 79 142 100 }
+}
+JUB = {
+	color = rgb { 193 77 97 }
+	color_ui = rgb { 193 77 97 }
+}
+HWI = {
+	color = rgb { 255 43 78 }
+	color_ui = rgb { 255 43 78 }
+}
+GRE = {
+	color = rgb { 210 204 204 }
+	color_ui = rgb { 210 204 204 }
+}
+CHY = {
+	color = rgb { 250 225 129 }
+	color_ui = rgb { 250 225 129 }
+}
+RC1 = {
+	color = rgb { 166 160 140 }
+	color_ui = rgb { 166 160 140 }
+}
+RC2 = {
+	color = rgb { 196 185 142 }
+	color_ui = rgb { 196 185 142 }
+}
+RC3 = {
+	color = rgb { 167 150 87 }
+	color_ui = rgb { 167 150 87 }
+}
+
 
 
