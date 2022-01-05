@@ -1,15 +1,15 @@
 
 state={
-	id=106
-	name="STATE_106"
+	id=126
+	name="STATE_126"
 
 	history={
-		owner = AMS
+		owner = TWF
 
 	}
 
 	provinces={
-		385 1293 1336 3700 4118 4971 6120 
+		3626 4855 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,0 +1,16 @@
+
+state={
+	id=130
+	name="STATE_130"
+
+	history={
+		owner = 
+	}
+
+	provinces={
+		28 71 406 900 1559 1975 2182 2641 2767 4014 4145 5234 6064 6067 6117 6159 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
