@@ -4,7 +4,8 @@ state={
 	provinces={
 		1111 3388 2698 6750 152 2978 6719 6713 1362 4385 919 3662 6766 4238 1828 6722 3443 902 3508 3458 128 6642 6627 189 2031 1407 1061 4932 1074 6586
 	}
-	manpower=0
+	manpower= 50000
+	state_category = wasteland
 	history = {
 		owner = DMX
 	}

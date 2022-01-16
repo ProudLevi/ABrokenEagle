@@ -4,7 +4,8 @@ state={
 	provinces={
 		2613 3300 6582 6567 2477 4585 6549 2865 3717 1855 6536 3586
 	}
-	manpower=0
+	manpower= 50000
+	state_category = wasteland
 	history = {
 		owner = FRK
 	}

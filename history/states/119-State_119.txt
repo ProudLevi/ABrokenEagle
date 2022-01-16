@@ -5,7 +5,8 @@ state={
 	provinces={
 		2 1957 
 	}
-	manpower=0
+	manpower= 50000
+	state_category = wasteland
 	history={
 		owner = CRW
 
