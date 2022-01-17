@@ -2,14 +2,17 @@
 state={
 	id=52
 	name="STATE_52"
+
+	history={
+		owner = HWI
+
+	}
+
 	provinces={
-		2711 5037 7880 7897 7908 7923 7926 7933 7940 7949 7951 7955 7959 7960 7962 7968 7974 7979 7983 7992 7994 8007 8010 8011 8017 8023 13667 13668 13669 13670 13671 13672 13673 13674 13675 
+		1050 2153 7956 7976 7991 7993 7996 7997 
 	}
-	history = {
-		owner = HWI	
-	}
-	manpower= 50000
-	state_category = wasteland
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=wasteland
 	local_supplies=0.000
 }

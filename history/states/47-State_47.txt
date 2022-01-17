@@ -9,9 +9,10 @@ state={
 	}
 
 	provinces={
-		1480 4401 6226 7750 
+		1480 4401 6226 
 	}
-	manpower= 50000
-	state_category = wasteland
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

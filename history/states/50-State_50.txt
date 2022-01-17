@@ -1,11 +1,12 @@
-#Hawaii
+
 state={
 	id=50
 	name="STATE_50"
 	provinces={
-		3321 8036 8032 8027 4127 7998 8003
+		3321 4127 8003 8027 8032 8036 
 	}
-	manpower= 50000
-	state_category = wasteland
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }

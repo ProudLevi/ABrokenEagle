@@ -1,13 +1,18 @@
+
 state={
 	id=78
 	name="STATE_78"
-	provinces={
-		578 1730 2142 2622 2699 2888 3262 3277 4144 4257 4786 4947 5078 7021 7033 7042 7044 7989 2100 3813 4736 7016 7026 8021 8022 3025 4929 7986 7987 
-	}
-	manpower= 50000
-	state_category = wasteland
-	history = {
+
+	history={
 		owner = MEX
+
 	}
+
+	provinces={
+		578 1730 2100 2142 2622 2699 2888 3025 3262 3277 3813 4144 4257 4736 4786 4929 4947 5078 7016 7021 7026 7033 7042 7044 8037 
+	}
+	manpower=50000
 	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
 }
