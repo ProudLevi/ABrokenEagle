@@ -267,6 +267,10 @@ RC3 = {
 	color = rgb { 167 150 87 }
 	color_ui = rgb { 167 150 87 }
 }
+BAH = {
+	color = rgb { 252 42 77 }
+	color_ui = rgb { 252 42 77 }
+}
 
 
 
